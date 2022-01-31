@@ -1,4 +1,4 @@
-<h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
+# <h1 align="center">Hi, I'm <a href="https://github.com/Frozenbloo">Frozenbloo <a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
 
 ## Some Stats 🚀
 ![Frozenbloo's github stats](https://github-readme-stats.vercel.app/api?username=Frozenbloo&show_icons=true&theme=tokyonight)
