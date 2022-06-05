@@ -1,6 +1,4 @@
 # <h1 align="center">Hi, I'm <a href="https://github.com/Frozenbloo">Frozenbloo</h1>
----  
-  
   
 ---
 
