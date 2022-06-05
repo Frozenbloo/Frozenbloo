@@ -1,4 +1,4 @@
-# <h1 align="center">Hi, I'm <a href="https://github.com/Frozenbloo">Frozenbloo <a><img src="https://github.com/Frozenbloo/Frozenbloo/blob/main/ReadMeWaveGif.gif" width="40px" /></h1>
+# <h1 align="center">Hi, I'm <a href="https://github.com/Frozenbloo">Frozenbloo</h1>
 ---  
   
   
