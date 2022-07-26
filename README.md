@@ -1,7 +1,7 @@
 # <h1 align="center">Hi, I'm <a href="https://github.com/Frozenbloo">Frozenbloo</h1>
 
 
-![](https://komarev.com/ghpvc/?frozenbloo&style=flat-square)
+![](https://komarev.com/ghpvc/?username=frozenbloo&style=flat-square)
 ---
 ### Skills
 [![](https://skillicons.dev/icons?i=cs,bots,dotnet,html,css,js,java,mysql,py)](https://skillicons.dev)
@@ -13,9 +13,13 @@
 [![](https://skillicons.dev/icons?i=bash,cpp,docker,jenkins,kubernetes,linux,mongodb,nodejs,postgres,react,redis,rust,unreal)](https://skillicons.dev)
 
 ---
-<details><summary>Some Stats 🚀</summary>
+### Some Stats🚀
+<details><summary>Click to view</summary> 
+  
   
 ![Frozenbloo's github stats](https://github-readme-stats.vercel.app/api?username=Frozenbloo&show_icons=true&theme=tokyonight)
+  
+![Metrics](https://metrics.lecoq.io/Frozenbloo?template=classic&base.header=0&base.indepth=false&base.hireable=false&config.timezone=Europe%2FLondon)
   
 </details>
 
