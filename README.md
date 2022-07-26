@@ -1,7 +1,7 @@
 # <h1 align="center">Hi, I'm <a href="https://github.com/Frozenbloo">Frozenbloo</h1>
 
 
-![](https://komarev.com/ghpvc/?username=frozenbloo&style=flat-square)
+![](https://komarev.com/ghpvc/?username=frozenbloo&style=for-the-badge)
 ---
 ### Skills
 [![](https://skillicons.dev/icons?i=cs,bots,dotnet,html,css,js,java,mysql,py)](https://skillicons.dev)
