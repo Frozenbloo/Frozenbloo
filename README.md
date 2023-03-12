@@ -1,7 +1,7 @@
 <h2>Personal Projects</h2>
-• FrostLibrary (A library aimed to make Minecraft Plugin Development Easier) <br />
-• FrostCore (A lightweight Minecraft Server Core with useful features and commands) <br />
-• FrostBot (A Discord ) <br />
+• FrostLibrary (A library aimed to make Minecraft Plugin Development Easier) <strong>WIP</strong><br />
+• FrostCore (A lightweight Minecraft Server Core with useful features and commands) <strong>WIP</strong><br />
+• FrostBot (A general purpose Discord bot) <strong>WIP</strong><br />
 • A ton of other personal and school related projects
 
 <h2>About Me</h2>
