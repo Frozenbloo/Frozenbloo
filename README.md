@@ -13,3 +13,8 @@
 • YouTube: @Frozenbloo<br />
 • Twitter: @Frozenbloo_G<br />
 • Website: (Coming Soon)<br />
+<br />
+
+<h2>Misc</h2>
+
+[![An image of @frozenbloo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/frozenbloo)](https://holopin.io/@frozenbloo)
