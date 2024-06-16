@@ -4,11 +4,11 @@
 • FrostBot (A general purpose Discord bot) <strong>WIP</strong><br />
 • A ton of other personal and school related projects -->
 
-<h2>About Me</h2>
+<!-- <h2>About Me</h2>
 <strong>• Fullstack Dev:</strong><br />
 • Fluent in Java, C#, Kotlin, <em>somewhat</em> in Python<br />
 • Currently learning C++, C, Kotlin & Rust.<br />
-<br />
+<br /> -->
 • Discord: @frozenbloo<br />
 • YouTube: @Frozenbloo<br />
 • Twitter: @Frozenbloo_G<br />
