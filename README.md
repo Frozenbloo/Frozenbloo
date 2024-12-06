@@ -13,7 +13,7 @@
 • YouTube: @Frozenbloo<br />
 • Twitter: @Frozenbloo_G<br />
 • Instagram: @frozenbloo.dev<br />
-• Website: (Coming Soon)<br />
+• Website: https://frozenbloo.com<br />
 <br />
 
 <h2>Misc</h2>
